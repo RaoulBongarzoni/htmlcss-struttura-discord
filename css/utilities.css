@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* padding */
+.p-16{ padding: 16px;}
+.pt-16{ padding-top: 16px;}
+.pb-16{ padding-bottom: 16px;}
+.pl-16{ padding-left: 16px;}
+.pr-16{ padding-right: 16px;}
+.py-16{ padding: 16px 0px 16px 0px;}
+.px-16{ padding: 0 16px 0 16px;} 
+
+
+.py-64{ padding: 64px 0px;}
+.p-64{ padding: 64px}
+.pb-64{ padding-bottom: 64px;}
+/* FLEX */
+
+.d-flex{ display: flex;}
+.flex-row{ flex-direction: row;}
+.flex-col{ flex-direction: column;}
+.flex-justify-between{ justify-content: space-between;}
+.flex-justify-around{ justify-content: space-around;}
+.flex-align-center{ align-items: center;}
+.flex-justify-center{ justify-content: center;}
+.flex-stretch{ align-items: stretch;}
+
+/* background */
+
+.bg-violet{ background-color: violet;}
+.bg-goldenrod{ background-color: goldenrod;}
+.bg-darkblue{ background-color: darkblue;}
+.bg-lightblue{ background-color: lightblue;}
+.bg-pink{ background-color: pink ;}
+.bg-dodgerblue{ background-color: dodgerblue ;}
+.bg-lightgray{ background-color: lightgray;}
+.bg-darkback{ background-color: #222;}
+.bg-lightcoral{ background-color: lightcoral;}
+
+/* width */
+.w-20{ width: 20%;}
+.w-25{ width: 25%;}
+.w-40{ width: 40%;}
+.w-30{ width: 30%;}
+.w-33{ width: 33%}
+.w-50{ width: 50%;}
+.w-60{ width: 60%;}
+.w-66{ width: 66%;}
+.w-70{ width: 70%}
+.w-100{width: 100%;}
+
+
+
+/* allineamento testo */
+.t-center{ text-align: center; }
+.t-left{ text-align: left; }
+.t-right{ text-align: right; }
+
+    
+    
+
